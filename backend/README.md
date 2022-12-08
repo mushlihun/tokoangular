@@ -40,7 +40,7 @@ Ecplise or STS, and Postman (it's not necessary, though it's really useful to ha
 
 - Clone this repository
 ```bash
-$ git clone https://github.com/mushlihun/tokorestapi
+$ git clone https://github.com/mushlihun/tokoangular/backend
 ```
 - Open this project using Eclipse or Spring tool Suit
 

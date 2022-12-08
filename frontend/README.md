@@ -1,7 +1,7 @@
 # Angular Rest API 🅰️ 
 
 
-This project was made with Angular 8, it's a  ecommerce frontend,  the application is connected with [tokoangular](https://github.com/mushlihun/tokoangular) through API. However, you can create your own API and use this repository as a boilerplate to build your own application.
+This project was made with Angular 8, it's a  ecommerce frontend,  the application is connected with [tokoangular](https://github.com/mushlihun/tokoangular/frontend) through API. However, you can create your own API and use this repository as a boilerplate to build your own application.
 
 
 ## Live demo 
@@ -22,11 +22,11 @@ This project was made with Angular 8, it's a  ecommerce frontend,  the applicati
 
 To clone and run this application by yourself, make sure you have NodeJS, Git and a terminal (doesn't matter which), just to run the commands. After that, do the following instructions: 
 
-**_First of all, make sure  you have downloaded the [backend](https://github.com/mushlihun/tokoangular) and have ran the server. The instruction of how to do that is on it's readme._**
+**_First of all, make sure  you have downloaded the [backend](https://github.com/mushlihun/tokoangular/frontend) and have ran the server. The instruction of how to do that is on it's readme._**
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mushlihun/tokoangular
+$ git clone https://github.com/mushlihun/tokoangular/frontend
 
 # Go into the repository
 $ cd tokoangular
